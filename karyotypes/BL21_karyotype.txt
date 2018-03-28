@@ -1,1 +1,1 @@
-chr - chr1 BL21 0 4528118 dgrey
+chr - chr1 1 0 4528118 dgrey
