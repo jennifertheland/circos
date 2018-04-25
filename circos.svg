@@ -219,9 +219,9 @@
 <g id="plot3-axis">
 </g>
 <path d="M1500.000,602.400 A897.600,897.600 40.000 1,1 982.404,766.665 L951.957,723.528 A950.400,950.400 0.000 1,0 1500.000,549.600 Z" style="stroke-width:1.0;stroke:rgb(116,196,118);stroke-linecap:round;fill:rgb(116,196,118);" />
-<path d="M1410.505,606.873 A897.600,897.600 40.000 0,1 1499.859,602.400 L1499.851,549.600 A950.400,950.400 0.000 0,0 1405.240,554.336 Z" style="stroke-width:1.0;stroke:rgb(116,196,118);stroke-linecap:round;fill:rgb(116,196,118);" />
+<path d="M1416.703,606.273 A897.600,897.600 40.000 0,1 1499.859,602.400 L1499.851,549.600 A950.400,950.400 0.000 0,0 1411.803,553.701 Z" style="stroke-width:1.0;stroke:rgb(116,196,118);stroke-linecap:round;fill:rgb(116,196,118);" />
 <path d="M1345.478,615.801 A897.600,897.600 40.000 0,1 1364.720,612.653 L1356.762,560.456 A950.400,950.400 0.000 0,0 1336.388,563.789 Z" style="stroke-width:1.0;stroke:rgb(116,196,118);stroke-linecap:round;fill:rgb(116,196,118);" />
-<path d="M1401.367,607.836 A897.600,897.600 40.000 0,1 1410.622,606.861 L1405.365,554.323 A950.400,950.400 0.000 0,0 1395.565,555.355 Z" style="stroke-width:1.0;stroke:rgb(252,146,114);stroke-linecap:round;fill:rgb(252,146,114);" />
+<path d="M1401.367,607.836 A897.600,897.600 40.000 0,1 1410.622,606.861 L1405.365,554.323 A950.400,950.400 0.000 0,0 1395.565,555.355 Z" style="stroke-width:1.0;stroke:rgb(116,196,118);stroke-linecap:round;fill:rgb(116,196,118);" />
 <path d="M1325.603,619.505 A897.600,897.600 40.000 0,1 1330.929,618.467 L1320.984,566.612 A950.400,950.400 0.000 0,0 1315.344,567.711 Z" style="stroke-width:1.0;stroke:rgb(116,196,118);stroke-linecap:round;fill:rgb(116,196,118);" />
 </g>
 <g id="plot4">
@@ -407,10 +407,10 @@
 </g>
 <defs>
 <pattern id="vline-sparse" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:2" /></pattern>
-<pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:2" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:2" /></pattern>
-<pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:5" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:4" /></pattern>
 <pattern id="hline-sparse" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:2" /></pattern>
+<pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:2" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:2" /></pattern>
 <pattern id="vline" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:5" /></pattern>
+<pattern id="checker" width="10" height="10" patternTransform="rotate(45 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:5" /><line x1="0" y1="0" x2="0" y2="10" style="stroke:black;stroke-width:4" /></pattern>
 <pattern id="hline" width="10" height="10" patternTransform="rotate(0 0 0)" patternUnits="userSpaceOnUse"><line x1="0" y1="0" x2="10" y2="0" style="stroke:black;stroke-width:5" /></pattern>
 </defs>
 </svg>
